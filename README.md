@@ -6,3 +6,9 @@ This work improves the shoreline response model developed by Miller &amp; Dean, 
 Figure 1. Cross-section of a beach describing parameters
 [Credits: Institute of Marine Affairs (Trinidad & Tobago). Coastal Dynamics. October 3, 2022. Weblink: https://www.ima.gov.tt/coastal-dynamics/] 
 
+
+
+
+https://github.com/user-attachments/assets/0d714489-c01a-4615-9c6f-6c9963914e11
+
+
